@@ -1,0 +1,29 @@
+p, h1, h2 {
+  color: #F8F8FF;
+  font-family: cursive;
+  font-style: oblique;
+}
+
+body {
+  background-image: url(Images/20201022_150557.jpg);
+  background-size: contain;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-color: #000000
+}
+
+img {
+  height: 75px;
+  width: 75px;
+}
+
+.greetings {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.info {
+  font-size: 25px;
+}
